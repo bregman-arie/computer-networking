@@ -2,6 +2,15 @@ Computer Networking
 ===================
 Create pull requests to add more links :)
 
+## Basic Networking Concepts
+* Rene Molenaar: **Address Resolution Protocol (ARP) Explained**
+    * [Video](https://www.youtube.com/watch?v=xTOyZ6TWQdM) [00:05:13]
+    * Level: beginner
+
+* David Mahler: **Introduction to Linux Network Namespaces**
+    * [Video](https://www.youtube.com/watch?v=_WgUwUf1d34) [00:25:50]
+    * Level: beginner
+
 ## OpenvSwitch
 * David Mahler: **Introduction to Open vSwitch**
     * [Video](https://www.youtube.com/watch?v=rYW7kQRyUvA) [00:14:35]
@@ -9,7 +18,8 @@ Create pull requests to add more links :)
 
 * Simon Horman: **An Introduction to Open vSwitch**
     * [Video](https://www.youtube.com/watch?v=_PCRNUB7oNw) [00:35:49]
-    * Level: beginner
+    * [Slides](http://openvswitch.org/slides/openvswitch.en-2.pdf)
+    * Level: first half is for beginners. Second half is for intermediates
 
 ## OpenStack Neutron
 * David Mahler: **Introduction to OpenStack Neutron**
@@ -29,3 +39,8 @@ Create pull requests to add more links :)
     * [Video](https://www.youtube.com/watch?v=7IXEtUEZslg) [00:44:56]
     * Level: intermediate
     * Required Knowledge: neutron, openvswitch, namespaces, openflow
+
+## OVN (Open Virtual Network)
+* Russell Bryant, Justin Pettit and Ben Pfaff: **Introduction to OVN**
+    * [Video](https://www.youtube.com/watch?v=v1xkJjnuzhk) [00:21:08]
+    * Level: beginner
