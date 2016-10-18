@@ -7,6 +7,18 @@ Create pull requests to add more links :)
     * [Video](https://www.youtube.com/watch?v=xTOyZ6TWQdM) [00:05:13]
     * Level: beginner
 
+* Pieter De Decker: **How Network Address Translation Works**
+    * [Video](https://www.youtube.com/watch?v=QBqPzHEDzvo) [00:10:04]
+    * Level: beginner
+
+* Pieter De Decker: **How DHCP Works**
+    * [Video](https://www.youtube.com/watch?v=RUZohsAxPxQ) [00:07:55]
+    * Level: beginner
+
+* Pieter De Decker: **UDP and TCP: Comparison of Transport Protocols**
+    * [Video](https://www.youtube.com/watch?v=Vdc8TCESIg8) [00:11:34]
+    * Level: beginner
+
 * David Mahler: **Introduction to Linux Network Namespaces**
     * [Video](https://www.youtube.com/watch?v=_WgUwUf1d34) [00:25:50]
     * Level: beginner
@@ -20,6 +32,19 @@ Create pull requests to add more links :)
     * [Video](https://www.youtube.com/watch?v=_PCRNUB7oNw) [00:35:49]
     * [Slides](http://openvswitch.org/slides/openvswitch.en-2.pdf)
     * Level: first half is for beginners. Second half is for intermediates
+
+## OpenFlow
+* David Mahler: **Introduction to OpenFlow**
+    * [Video](https://www.youtube.com/watch?v=l25Ukkmk6Sk) [00:15:25]
+    * Level: beginner
+
+* Steven Wallace: **Describes the OpenFlow flow table**
+    * [Video](https://www.youtube.com/watch?v=-xLQHld3fPI) [00:03:00]
+    * Level: beginner
+
+* David Mahler: **OpenFlow with multiple Flow Tables**
+    * [Video](https://www.youtube.com/watch?v=TD5wmoD7XOE) [00:09:30]
+    * Level: intermediate
 
 ## OpenStack Neutron
 * David Mahler: **Introduction to OpenStack Neutron**
