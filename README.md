@@ -65,6 +65,19 @@ Create pull requests to add more links :)
     * Level: intermediate
     * Required Knowledge: neutron, openvswitch, namespaces, openflow
 
+## SDN (Software Defined Network)
+* David Bombal: **SDN and OpenFlow Overview - Open, API and Overlay based SDN**
+    * [Video](https://www.youtube.com/watch?v=l-DcbQhFAQs) [00:27:15]
+    * Level: beginner
+
+* Dan Pitt: **Introduction to OpenFlow and Software-Defined Networking**
+    * [Video](https://www.youtube.com/watch?v=5-pLO4MZU3o) [00:44:14]
+    * Level: beginner
+
+* Anthony Sequeira: **SDN Fundamentals**
+    * [Video](https://www.youtube.com/watch?v=Np4p1CDIuzc) [00:10:09]
+    * Level: beginner
+
 ## OVN (Open Virtual Network)
 * Russell Bryant, Justin Pettit and Ben Pfaff: **Introduction to OVN**
     * [Video](https://www.youtube.com/watch?v=v1xkJjnuzhk) [00:21:08]
