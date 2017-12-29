@@ -7,6 +7,8 @@ Create pull requests to add more links :)
 Presenter | Video | Length | Level
 :------ |:------|:------:|:--------:
 Rene Molenaar | [Address Resolution Protocol (ARP) Explained](https://www.youtube.com/watch?v=xTOyZ6TWQdM) | 00:05:13 | Beginner |
+Eli the Computer Guy | [The OSI Model Demystified](https://www.youtube.com/watch?v=HEEnLZV2wGI) | 00:18:40 | Beginner |
+Pieter De Decker | [Hub, Switch or Router? Network Devices Explained](https://www.youtube.com/watch?v=Ofjsh_E4HFY) | 00:07:39 | Beginner |
 Pieter De Decker | [How Network Address Translation Works](https://www.youtube.com/watch?v=QBqPzHEDzvo) | 00:10:04 | Beginner |
 Pieter De Decker | [How DHCP Works](https://www.youtube.com/watch?v=RUZohsAxPxQ) | 00:07:55 | Beginner |
 Pieter De Decker | [UDP and TCP: Comparison of Transport Protocols](https://www.youtube.com/watch?v=Vdc8TCESIg8) | 00:11:34 | Beginner |
@@ -38,6 +40,7 @@ David Mahler | [Introduction to OpenStack Neutron](https://www.youtube.com/watch
 Assaf Muller | [Introduction to OpenStack Neutron](https://www.youtube.com/watch?v=IGGgVuZe7UA) | 00:33:20 | Beginner | |
 Rossella Sblendido | [I Can't Ping My VM! Learn How to Debug Neutron and Solve Common Problems](https://www.youtube.com/watch?v=aNA8Pvewu2M) | 00:42:16 | Intermediate | Required Knowledge: neutron basics |
 David Mahler | [OpenStack Neutron Packet Walkthrough (DVR)](https://www.youtube.com/watch?v=7IXEtUEZslg) | 00:44:56 | Intermediate | Required Knowledge: neutron, openvswitch, namespaces and openflow |
+Mohamed Elsakhawy | [Neutron- Where Did My Packets Go?](https://www.youtube.com/watch?v=uKgMp5c6R-4) | 00:39:32 | Beginner | |
 
 
 ## SDN (Software Defined Network)
