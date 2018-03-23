@@ -17,8 +17,31 @@ Create pull requests to add more resources because sharing is caring and the mos
 
 Check your networking educational journey progress with the following checklist
 
-* [ ] **OSI model** the conceptual model that characterizes and standardizes communication
+- [ ] **OSI model**
+  - [ ] What layers the OSI model has and what is the importance of each one of them?
 
-* [ ] **ARP** communication protocol used for discovering the link layer address
+- [ ] MAC address
+  - [ ] How many bits are in a MAC address?
+  - [ ] Which layer of the OSI model do MAC belong to?
 
-* [ ] **DHCP** the protocol which dynamically assigns an IP address and other network configuration parameters to a device
+- [ ] **ARP**
+  - [ ] Which layer of the OSI model do ARP belong to?
+  - [ ] What ARP table includes?
+  - [ ] Give an example of how ARP protocol works
+
+- [ ] **DHCP**
+  - [ ] How DHCP protocol works? What steps it includes?
+
+- [ ] **TCP**
+  - [ ] What are the differences between TCP and UDP? When would you prefer to use TCP over UDP?
+  - [ ] What is a "three-way handshake"?
+
+- [ ] **UDP** 
+  - [ ] Why UDP considered to be unreliable when compared to TCP?
+  - [ ] Which layer of the OSI model do UDP belong to?
+
+- [ ] **Netowrk Devices**
+  - [ ] What is a HUB?
+  - [ ] What is a Switch?
+  - [ ] What is a Router?
+  - [ ] What are differences between the three?
