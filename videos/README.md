@@ -11,7 +11,15 @@ Pieter De Decker | [Hub, Switch or Router? Network Devices Explained](https://ww
 Pieter De Decker | [How Network Address Translation Works](https://www.youtube.com/watch?v=QBqPzHEDzvo) | 00:10:04 | Beginner |
 Pieter De Decker | [How DHCP Works](https://www.youtube.com/watch?v=RUZohsAxPxQ) | 00:07:55 | Beginner |
 Pieter De Decker | [UDP and TCP: Comparison of Transport Protocols](https://www.youtube.com/watch?v=Vdc8TCESIg8) | 00:11:34 | Beginner |
+Ricky Tapia | [CSMA/CD](https://www.youtube.com/watch?v=IAKncL67Pp4) | 00:04:01 | Beginner |
+
+
+## Linux
+
+Presenter | Video | Length | Level
+:------ |:------|:------:|:--------:
 David Mahler | [Introduction to Linux Network Namespaces](https://www.youtube.com/watch?v=_WgUwUf1d34) | 00:25:50 | Beginner |
+
 
 ## OpenvSwitch
 
