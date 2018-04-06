@@ -47,3 +47,25 @@ Note: similar questions can be found in [interview questions](https://github.com
     - [ ] What is the broadcast address?
     - [ ] What protocols use broadcast?
     - [ ] What is a broadcast domain?
+
+- [ ] **Topologies**
+  - [ ] Bus topology
+  - [ ] Ring topology
+  - [ ] Star topology
+  - [ ] Tree topology
+
+- [ ] **IP**
+  - [ ] What layer of OSP model it belongs to?
+  - [ ] IPv4
+  - [ ] IPv6
+    - [ ] Why IPv6 is needed if IPv4 exists?
+
+## Academic Level
+
+- [ ] **Digital Modulation**
+  - [ ] What is Amplitude Shift keying?
+  - [ ] What is Frequency Shift Keying?
+  - [ ] What is Phase Shift keying?
+
+- [ ] **Multiplexing**
+  - [ ] Why it's used and how it works?
