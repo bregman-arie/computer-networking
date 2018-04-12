@@ -69,3 +69,17 @@ Note: similar questions can be found in [interview questions](https://github.com
 
 - [ ] **Multiplexing**
   - [ ] Why it's used and how it works?
+
+## Cloud Networking (OpenStack Neutron)
+
+- [ ] **Entities**
+  - [ ] Network
+  - [ ] Router
+  - [ ] Port
+  - [ ] Subnet
+  - [ ] Security Group
+
+- [ ] **ML2 Plugin**
+  - [ ] What is it used for?
+  - [ ] Explain type drivers
+  - [ ] Explain mechanism drivers

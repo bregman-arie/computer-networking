@@ -43,6 +43,7 @@ David Mahler | [OpenFlow flow entries on Open vSwitch (OVS)](https://www.youtube
 
 Presenter | Video | Length | Level | Comments
 :------ |:------|:------:|:--------:|:--------:
+[Shalu George & Naveen Joy] | [Neutron networking demystified for beginners](https://www.youtube.com/watch?v=c-x90PZFv8k) | 00:39:53 | Beginner | 2017 |
 David Mahler | [Introduction to OpenStack Neutron](https://www.youtube.com/watch?v=yqFpyubsYfE) | 00:19:38 | Beginner | |
 Assaf Muller | [Introduction to OpenStack Neutron](https://www.youtube.com/watch?v=IGGgVuZe7UA) | 00:33:20 | Beginner | |
 Rossella Sblendido | [I Can't Ping My VM! Learn How to Debug Neutron and Solve Common Problems](https://www.youtube.com/watch?v=aNA8Pvewu2M) | 00:42:16 | Intermediate | Required Knowledge: neutron basics |
