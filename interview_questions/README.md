@@ -71,6 +71,21 @@ Specifically, two hosts that are connected to the same switch but on different V
 A switchport that is configured to pass frames from all VLANs and tag them with the VLAN IDs is called a trunk port.
 ```
 
+## Linux Networking
+
+* How do you initiate an ARP request manually?
+
+```
+arping -I eth0 192.40.2.52
+```
+
+* How to view the contents of the ARP cache?
+
+```
+arp -n
+```
+
+
 ## OpenStack Neutron
 
 * Name at least three network entities Neutron supports

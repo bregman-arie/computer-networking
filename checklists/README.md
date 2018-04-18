@@ -17,6 +17,16 @@ Note: similar questions can be found in [interview questions](https://github.com
   - [ ] What is it used for? Is it unique?
   - [ ] How many bits are in a MAC address?
 
+- [ ] **IP address**
+  - [ ] What is it used for? Is it unique worldwide?
+  - [ ] What are the two parts of an IP address?
+  - [ ] How many bits are in an IP address?
+
+- [ ] **Subnets**
+  - [ ] Two hosts are on the same subnet if they have the same '_____'
+  - [ ] What is a netmask?
+  - [ ] What two syntaxes exist for expressing a netmask?
+
 - [ ] **ARP**
   - [ ] Which layer of the OSI model do ARP belong to?
   - [ ] What ARP table includes?
@@ -33,6 +43,7 @@ Note: similar questions can be found in [interview questions](https://github.com
 - [ ] **DHCP**
   - [ ] How DHCP protocol works? What steps it includes?
   - [ ] Is it using TCP or UDP?
+  - [ ] WHat ports is it using?
 
 - [ ] **Netowrk Devices**
   - [ ] What is a HUB?
@@ -66,6 +77,20 @@ Note: similar questions can be found in [interview questions](https://github.com
   - [ ] IPv6
     - [ ] Why IPv6 is needed if IPv4 exists?
 
+## Linux Networking
+
+- [ ] **ARP**
+  - [ ] How to view the contents of the ARP cache?
+  - [ ] How to initiate an ARP request manually?
+
+- [ ] **MTU**
+  - [ ] How to see what is the MTU of a given interface?
+  - [ ] How do you set MTU?
+
+- [ ] **Namespaces**
+  - [ ] How to create & delete namespaces?
+  - [ ] How to enter a specific namespace?
+
 ## Academic Level
 
 - [ ] **Digital Modulation**
@@ -74,7 +99,7 @@ Note: similar questions can be found in [interview questions](https://github.com
   - [ ] What is Phase Shift keying?
 
 - [ ] **Multiplexing**
-  - [ ] Why it's used and how it works?
+  - [ ] What is it used for and how it works?
 
 ## Cloud Networking (OpenStack Neutron)
 
