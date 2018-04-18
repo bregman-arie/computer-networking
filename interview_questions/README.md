@@ -47,6 +47,30 @@ Note: It is used in shared medium only so it is not very common to find it in us
 in modern technology as today networks are using dedicated hardware and media.
 ```
 
+* What is a switch?
+
+```
+A switch is a box of networking hardware with a large number of ports that forward Ethernet frames from one connected host to another.
+When hosts first send frames over the switch, the switch doesn’t know which MAC address is associated with which port.
+If an Ethernet frame is destined for an unknown MAC address, the switch broadcasts the frame to all ports.
+The switch learns which MAC addresses are at which ports by observing the traffic.
+Once it knows which MAC address is associated with a port, it can send Ethernet frames to the correct port instead of broadcasting.
+The switch maintains the mappings of MAC addresses to switch ports in a table called a forwarding table or forwarding information base (FIB)
+```
+
+* What is a VLAN?
+
+```
+VLAN is a networking technology that enables a single switch to act as if it was multiple independent switches.
+Specifically, two hosts that are connected to the same switch but on different VLANs do not see each other’s traffic.
+```
+
+* What is a trunk port?
+
+```
+A switchport that is configured to pass frames from all VLANs and tag them with the VLAN IDs is called a trunk port.
+```
+
 ## OpenStack Neutron
 
 * Name at least three network entities Neutron supports

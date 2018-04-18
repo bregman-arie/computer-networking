@@ -37,6 +37,7 @@ Note: similar questions can be found in [interview questions](https://github.com
 - [ ] **Netowrk Devices**
   - [ ] What is a HUB?
   - [ ] What is a Switch?
+    - [ ] Forwarding table or (aka forwarding information base)
   - [ ] What is a Router?
   - [ ] What are differences between the three devices above?
 
@@ -47,6 +48,11 @@ Note: similar questions can be found in [interview questions](https://github.com
     - [ ] What is the broadcast address?
     - [ ] What protocols use broadcast?
     - [ ] What is a broadcast domain?
+
+- [ ] **VLAN**
+  - [ ] What are the advantages of using VLAN?
+  - [ ] What is the range for VLAN IDs?
+  - [ ] What is a trunk port?
 
 - [ ] **Topologies**
   - [ ] Bus topology
