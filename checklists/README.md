@@ -32,6 +32,11 @@ Note: similar questions can be found in [interview questions](https://github.com
   - [ ] What ARP table includes?
   - [ ] Give an example of how ARP protocol works
 
+- [ ] **IP**
+  - [ ] What it defines?
+  - [ ] What is a routing table? When is it being used?
+  - [ ] 
+
 - [ ] **TCP**
   - [ ] What are the differences between TCP and UDP? When would you prefer to use TCP over UDP?
   - [ ] What is a "three-way handshake"?
@@ -41,9 +46,11 @@ Note: similar questions can be found in [interview questions](https://github.com
   - [ ] Which layer of the OSI model do UDP belong to?
 
 - [ ] **DHCP**
-  - [ ] How DHCP protocol works? What steps it includes?
+  - [ ] How DHCP client locates the DHCP server?
+  - [ ] Does the client has to be on the same local network as the server?
+  - [ ] How the exchange between client and the server looks like? what steps are included?
   - [ ] Is it using TCP or UDP?
-  - [ ] WHat ports is it using?
+  - [ ] What ports is it using?
 
 - [ ] **Netowrk Devices**
   - [ ] What is a HUB?
@@ -77,6 +84,10 @@ Note: similar questions can be found in [interview questions](https://github.com
   - [ ] IPv6
     - [ ] Why IPv6 is needed if IPv4 exists?
 
+- [ ] **ICMP**
+  - [ ] What is it used for?
+  - [ ] How do you use it?
+
 ## Linux Networking
 
 - [ ] **ARP**
@@ -90,6 +101,13 @@ Note: similar questions can be found in [interview questions](https://github.com
 - [ ] **Namespaces**
   - [ ] How to create & delete namespaces?
   - [ ] How to enter a specific namespace?
+
+- [ ] **Routing*
+  - [ ] How to display the routing table?
+  - [ ] How to print the IP address of each router that an IP packet traverses along its path to its destination?
+
+- [ ] **ICMP**
+  - [ ] How do you use it?
 
 ## Academic Level
 
@@ -114,3 +132,6 @@ Note: similar questions can be found in [interview questions](https://github.com
   - [ ] What is it used for?
   - [ ] Explain type drivers
   - [ ] Explain mechanism drivers
+
+- [ ] **dnsmasq***
+  - [ ] What is it used for?

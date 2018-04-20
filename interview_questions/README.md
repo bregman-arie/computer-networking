@@ -71,6 +71,18 @@ Specifically, two hosts that are connected to the same switch but on different V
 A switchport that is configured to pass frames from all VLANs and tag them with the VLAN IDs is called a trunk port.
 ```
 
+* What is ICMP? When is it used and how do you use it?
+
+```
+ICMP is a protocol used for sending control messages over an IP network.
+
+For example: 
+    * Router will send an ICMP packet to source when there is no route in routing table 
+    * When IP packet is too large for the route to handle
+
+CLI tools that make use of it: mtr and ping
+```
+
 ## Linux Networking
 
 * How do you initiate an ARP request manually?
