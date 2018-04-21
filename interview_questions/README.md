@@ -83,6 +83,13 @@ For example:
 CLI tools that make use of it: mtr and ping
 ```
 
+* What is NAT?
+
+```
+NAT is a protocol used for modifying the destination or source addresses while the packet is in transit.
+None of the involved hosts are aware of the process taking place.
+```
+
 ## Linux Networking
 
 * How do you initiate an ARP request manually?
@@ -120,4 +127,12 @@ ML2 allows doing that by using drivers. It distinguishes drives into two types: 
 Network type drives allow you to create a specific type of network. For example VXLAN, GRE, Geneve.
 
 Mechanism drivers allow you to connect to or utilize existing systems, mechanisms like OpenvSwitch or Linux Bridge for example.
+```
+
+* What type of networks are you familiar with?
+
+```
+Provider networks which offer layer-2 connectivity to instances with optional support for DHCP and metadata services.
+Project networks which allowprojects to manage networks without involving administrators. These networks are entirely virtual and
+require virtual routers to interact with provider and external networks such as the Internet.
 ```

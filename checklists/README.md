@@ -35,7 +35,6 @@ Note: similar questions can be found in [interview questions](https://github.com
 - [ ] **IP**
   - [ ] What it defines?
   - [ ] What is a routing table? When is it being used?
-  - [ ] 
 
 - [ ] **TCP**
   - [ ] What are the differences between TCP and UDP? When would you prefer to use TCP over UDP?
@@ -88,6 +87,12 @@ Note: similar questions can be found in [interview questions](https://github.com
   - [ ] What is it used for?
   - [ ] How do you use it?
 
+- [ ] **NAT**
+  - [ ] What is it and why it's needed?
+  - [ ] What is SNAT? how it is different from NAT?
+  - [ ] What is DNAT? how it is different from SNAT?
+
+
 ## Linux Networking
 
 - [ ] **ARP**
@@ -120,6 +125,12 @@ Note: similar questions can be found in [interview questions](https://github.com
   - [ ] What is it used for and how it works?
 
 ## Cloud Networking (OpenStack Neutron)
+
+- [ ] **Components**
+  - [ ] API Server
+  - [ ] Plugins
+  - [ ] Agents
+  - [ ] Messaging Queue
 
 - [ ] **Entities**
   - [ ] Network
