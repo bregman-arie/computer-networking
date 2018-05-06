@@ -124,6 +124,17 @@ Note: similar questions can be found in [interview questions](https://github.com
 - [ ] **Multiplexing**
   - [ ] What is it used for and how it works?
 
+- [ ] **MACA**
+  - [ ] How it works?
+  - [ ] What is RTS?
+  - [ ] What is CTS?
+
+- [ ] **ALOHA**
+  - [ ] Pure
+  - [ ] Slotted
+
+- [ ] The adaptive tree walk
+
 ## Cloud Networking (OpenStack Neutron)
 
 - [ ] **Components**
@@ -145,4 +156,7 @@ Note: similar questions can be found in [interview questions](https://github.com
   - [ ] Explain mechanism drivers
 
 - [ ] **dnsmasq***
-  - [ ] What is it used for?
+
+- [ ] **Floating IP**
+
+- [ ] **Provider Network**
