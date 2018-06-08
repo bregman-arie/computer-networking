@@ -133,7 +133,15 @@ Note: similar questions can be found in [interview questions](https://github.com
   - [ ] Pure
   - [ ] Slotted
 
-- [ ] The adaptive tree walk
+- [ ] **Noisy-channel coding theorem**
+  - [ ] Shannon capacity/limit
+
+- [ ] **The adaptive tree walk**
+
+- [ ] **Cryptography**
+  - [ ] **Symmetric**
+  - [ ] **Asymmetric**
+  - [ ] **Digital Signature**
 
 ## Cloud Networking (OpenStack Neutron)
 
