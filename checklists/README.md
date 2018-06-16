@@ -92,7 +92,6 @@ Note: similar questions can be found in [interview questions](https://github.com
   - [ ] What is SNAT? how it is different from NAT?
   - [ ] What is DNAT? how it is different from SNAT?
 
-
 ## Linux Networking
 
 - [ ] **ARP**
@@ -136,12 +135,28 @@ Note: similar questions can be found in [interview questions](https://github.com
 - [ ] **Noisy-channel coding theorem**
   - [ ] Shannon capacity/limit
 
+- [ ] **CSMA**
+  - [ ] The Binary Exponential Backoff Algorithm
+
+- [ ] **Stop and Wait**
+
 - [ ] **The adaptive tree walk**
 
 - [ ] **Cryptography**
   - [ ] **Symmetric**
   - [ ] **Asymmetric**
   - [ ] **Digital Signature**
+
+- [ ] **Error Detection**
+  - [ ] Parity Bit
+  - [ ] Checksum
+  - [ ] CRC code
+
+- [ ] **Error Correction**
+    - [ ] Hamming Code
+    - [ ] Reed Solomon code
+    - [ ] The NASA binary convolutional code
+    - [ ] Low-Density Parity Check code
 
 ## Cloud Networking (OpenStack Neutron)
 

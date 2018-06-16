@@ -136,3 +136,11 @@ Provider networks which offer layer-2 connectivity to instances with optional su
 Project networks which allowprojects to manage networks without involving administrators. These networks are entirely virtual and
 require virtual routers to interact with provider and external networks such as the Internet.
 ```
+
+## Academic Level
+
+* Using Hammind code, what would be the code word for the following data word 100111010001101?
+
+```
+00110011110100011101
+```
