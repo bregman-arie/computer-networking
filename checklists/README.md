@@ -92,6 +92,17 @@ Note: similar questions can be found in [interview questions](https://github.com
   - [ ] What is SNAT? how it is different from NAT?
   - [ ] What is DNAT? how it is different from SNAT?
 
+## Intermediate
+
+
+- [ ] **Distance Vector Routing**
+  - [ ] "Count-to-infinity" problem
+
+- [ ] **TCP**
+  - [ ] Silly window syndrome
+    - [ ] Nagle's algorithm
+    - [ ] Clark's solution
+
 ## Linux Networking
 
 - [ ] **ARP**
@@ -151,6 +162,9 @@ Note: similar questions can be found in [interview questions](https://github.com
   - [ ] Parity Bit
   - [ ] Checksum
   - [ ] CRC code
+
+- [ ] Data transmission
+  - [ ] Piggybacking
 
 - [ ] **Error Correction**
     - [ ] Hamming Code
