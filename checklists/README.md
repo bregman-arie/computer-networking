@@ -94,9 +94,10 @@ Note: similar questions can be found in [interview questions](https://github.com
 
 ## Intermediate
 
-
-- [ ] **Distance Vector Routing**
-  - [ ] "Count-to-infinity" problem
+- [ ] **Routing**
+  - [ ] Distance Vector Routing
+    - [ ] "Count-to-infinity" problem
+  - [ ] Dijkstra's algorithm
 
 - [ ] **TCP**
   - [ ] Silly window syndrome
@@ -134,10 +135,12 @@ Note: similar questions can be found in [interview questions](https://github.com
 - [ ] **Multiplexing**
   - [ ] What is it used for and how it works?
 
-- [ ] **MACA**
-  - [ ] How it works?
-  - [ ] What is RTS?
-  - [ ] What is CTS?
+- [ ] **Wireless networks**
+  - [ ] The hidden terminal problem
+  - [ ] The exposed terminal problem
+  - [ ] **MACA**
+    - [ ] What is RTS?
+    - [ ] What is CTS?
 
 - [ ] **ALOHA**
   - [ ] Pure
