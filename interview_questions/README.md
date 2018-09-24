@@ -90,6 +90,8 @@ NAT is a protocol used for modifying the destination or source addresses while t
 None of the involved hosts are aware of the process taking place.
 ```
 
+* What is the difference between TCP and UDP?
+
 ## Linux Networking
 
 * How do you initiate an ARP request manually?
@@ -103,6 +105,18 @@ arping -I eth0 192.40.2.52
 ```
 arp -n
 ```
+
+* What bonding modes there are?
+
+* What is a linux network namespace? Why would someone want to use it?
+
+* What tools are you using for troubleshooting network issues?
+
+* How to change the MTU of an interface?
+
+* How to set the speed of a given network interface?
+
+* How traceroute works?
 
 
 ## OpenStack Neutron
