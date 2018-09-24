@@ -106,6 +106,19 @@ Note: similar questions can be found in [interview questions](https://github.com
 
 ## Linux Networking
 
+- [ ] **Commands**
+  - [ ] ping
+  - [ ] ip addr
+  - [ ] ip neigh
+  - [ ] ip link
+  - [ ] ip route
+  - [ ] ip netns
+  - [ ] ethtool
+  - [ ] netstat
+  - [ ] traceroute
+  - [ ] tcpdump
+  - [ ] mtr
+
 - [ ] **ARP**
   - [ ] How to view the contents of the ARP cache?
   - [ ] How to initiate an ARP request manually?
@@ -157,9 +170,9 @@ Note: similar questions can be found in [interview questions](https://github.com
 - [ ] **The adaptive tree walk**
 
 - [ ] **Cryptography**
-  - [ ] **Symmetric**
-  - [ ] **Asymmetric**
-  - [ ] **Digital Signature**
+  - [ ] Symmetric
+  - [ ] Asymmetric
+  - [ ] Digital Signature
 
 - [ ] **Error Detection**
   - [ ] Parity Bit
