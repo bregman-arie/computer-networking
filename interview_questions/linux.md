@@ -14,7 +14,9 @@ arp -n
 
 * What bonding modes there are?
 
-* What is a linux network namespace? Why would someone want to use it?
+* What is a Linux network namespace? Why would someone want to use it?
+
+* How do you work with network namespaces?
 
 * What tools are you using for troubleshooting network issues?
 
@@ -23,3 +25,13 @@ arp -n
 * How to set the speed of a given network interface?
 
 * How traceroute works?
+
+* How to list open connections, sockets?
+
+* How to trace all the trafic from a specific host?
+
+* How to set a default gateway?
+
+* How to configure network bonding?
+
+* How to turn your Linux server into a router?

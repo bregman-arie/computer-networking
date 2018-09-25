@@ -44,5 +44,16 @@ Note: It is used in shared medium only so it is not very common to find it in us
 in modern technology as today networks are using dedicated hardware and media.
 ```
 
-* What is a switch?
+* Describe the following network devices and the difference between them: router, switch and hub
 
+* What is NAT?
+
+* DNS is using TCP or UDP?
+
+* What is ARP? 
+
+* What is DHCP? How it works?
+
+* What is a socket?
+
+* What is MTU?
