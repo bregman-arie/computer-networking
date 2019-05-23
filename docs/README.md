@@ -1,5 +1,16 @@
 # Written Resources
 
+## Basic Networking Concepts
+
+| Author        | Article                                                      | Level    | Comments |
+| :------------ | :----------------------------------------------------------- | -------- | -------- |
+| Jajish Thomas | [ARP Explained](http://www.omnisecu.com/tcpip/address-resolution-protocol-arp.php) | Beginner |          |
+| Cloudflare    | [OSI Model](https://www.cloudflare.com/learning/ddos/glossary/open-systems-interconnection-model-osi/) | Beginner |          |
+| Leo Notenboom | [What's the difference between Hub, Switch and a Router](https://askleo.com/whats_the_difference_between_a_hub_a_switch_and_a_router/) | Beginner |          |
+| GeeksForGeeks | [Network Devices](https://www.geeksforgeeks.org/network-devices-hub-repeater-bridge-switch-router-gateways/) | Beginner |          |
+| Marcin Bialy  | [What is DHCP and how it works?](https://www.grandmetric.com/2017/07/18/what-is-dhcp-and-how-does-it-work/) | Beginner |          |
+| Digital Guide | [CSMA/CD: Explanation of the process](CSMA/CD: Explanation of the process) | Beginner |          |
+| GeeksForGeeks | [Collision Detection in CSMA/CD](https://www.geeksforgeeks.org/collision-detection-csmacd/) | Beginner |          |
 
 ## Linux
 
