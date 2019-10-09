@@ -23,8 +23,8 @@ Broadcast: Sending a message to everone in the network. The address ff:ff:ff:ff:
 Multicast: Sending a message to a group of subscribers. It can be one-to-many or many-to-many.
 ```
 
-* What is CSMA/CD? Is it used in modern ethernet networks?
-
+<details>
+<summary>What is CSMA/CD? Is it used in modern ethernet networks?</summary>
 ```
 CSMA/CD stands for Carrier Sense Multiple Access / Collision Detection.
 
@@ -43,10 +43,13 @@ CSMA/CD algorithm:
 Note: It is used in shared medium only so it is not very common to find it in used
 in modern technology as today networks are using dedicated hardware and media.
 ```
+</details>
 
 * Describe the following network devices and the difference between them: router, switch and hub
 
 * What is NAT?
+
+* What is the difference between TCP and UDP?
 
 * DNS is using TCP or UDP?
 
@@ -54,6 +57,14 @@ in modern technology as today networks are using dedicated hardware and media.
 
 * What is DHCP? How it works?
 
+* What is SSL tunneling? How it works?
+
 * What is a socket?
 
+* What is IPv6? Why should we consider using it if we have IPv4?
+
 * What is MTU?
+
+* What is ICMP?
+
+* What is SDN?
