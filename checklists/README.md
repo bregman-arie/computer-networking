@@ -51,7 +51,7 @@ Note: similar questions can be found in [interview questions](https://github.com
   - [ ] Is it using TCP or UDP?
   - [ ] What ports is it using?
 
-- [ ] **Netowrk Devices**
+- [ ] **Network Devices**
   - [ ] What is a HUB?
   - [ ] What is a Switch?
     - [ ] Forwarding table or (aka forwarding information base)
